@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 itertools = "0.13.0"
-wasmtime = "24.0.0"
+wasmtime = "24.0.7"
