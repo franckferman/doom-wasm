@@ -1,0 +1,22 @@
+# Build artifacts
+build/
+*.o
+*.wasm
+
+# WAD files (large binaries)
+*.wad
+*.WAD
+
+# Dev environments
+.dev_virtualenvs/
+.binaryen/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
